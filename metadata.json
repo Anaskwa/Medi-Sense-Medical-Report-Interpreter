@@ -1,0 +1,7 @@
+{
+  "name": "Medi-Sense: Medical Report Interpreter(3)",
+  "description": "A secure, AI-powered tool to help you understand your medical reports in plain English. Upload scans of blood tests or lab results to get simple summaries and helpful questions for your doctor.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
